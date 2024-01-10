@@ -35,7 +35,7 @@ Troubleshooting: Identify and resolve issues related to system performance, netw
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/vishal-03/internctl.git
+    git clone https://github.com/vishal-03/XenonStack-Task
     ```
 
 2. Navigate to the project directory:
@@ -53,14 +53,50 @@ Troubleshooting: Identify and resolve issues related to system performance, netw
 4. Run the script with various subcommands:
 
     ```bash
-    ./internctl --help
-    ./internctl cpu getinfo
-    ./internctl memory getinfo
-    ./internctl user create <username>
-    ./internctl user list
-    ./internctl user list --sudo-only
-    ./internctl file getinfo [options] <file-name>
+    ./internsctl --verison
+    ./internsctl --help
+    ./internsctl cpu getinfo
+    ./internsctl memory getinfo
+    ./internsctl user create <username>
+    ./internsctl user list
+    ./internsctl user list --sudo-only
+    ./internsctl file getinfo [options] <file-name>
     ```
+Version 
+<br>
+![version](https://github.com/Vishal-03/XenonStack-Task/assets/75837408/54109d9d-d988-41c0-ad91-756c74d018ed)
+<br>
+Help
+<br>
+![help](https://github.com/Vishal-03/XenonStack-Task/assets/75837408/a5cfa97b-3098-444b-82f5-e83456355e1d)
+<br>
+Man intersctl
+<br>
+![man](https://github.com/Vishal-03/XenonStack-Task/assets/75837408/b33dd7f6-9d9e-4316-85ff-7989d3925a4b)
+<br>
+CPU Info
+![cpu info](https://github.com/Vishal-03/XenonStack-Task/assets/75837408/f362f17a-2426-4865-a97b-a27d7b5ef144)
+<br>
+Memory Info
+<br>
+![Screenshot from 2024-01-10 15-11-13](https://github.com/Vishal-03/XenonStack-Task/assets/75837408/1b05c5f1-9e1d-4402-ba46-a0d2d8690955)
+<br>
+Create User
+<br>
+![CreateUser](https://github.com/Vishal-03/XenonStack-Task/assets/75837408/343ed0d9-1361-40ef-a832-b30c8d199002)
+<br>
+All User List
+<br>
+![userList](https://github.com/Vishal-03/XenonStack-Task/assets/75837408/306874a0-a968-453d-bcc1-68eee4d6965c)
+<br>
+Sudo user list
+<br>
+![sudo-Only](https://github.com/Vishal-03/XenonStack-Task/assets/75837408/1c753ee3-c0c6-444f-99b8-bace58dcf860)
+<br>
+
+
+
+
 
 ### Subcommands and Options
 
